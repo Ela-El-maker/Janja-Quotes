@@ -1,0 +1,10 @@
+body{font-family:Raleway,sans-serif;transition:background-color 1s}
+.row{height:80%;margin-top:10%;width:90%;margin-left:5%;border:3px solid #fff;border-radius:25px;background-color:#fff}
+#quote-box{justify-content:center}
+#text{font-size:200%;margin-top:-30px;margin-bottom:30px}
+span{font-size:450%}
+#author{font-weight:200;text-align:end}
+.col-sm-8{padding:40px;transition:color 1s}
+button{border:none;border-radius:25px;padding:11px;margin-top:20px;margin-bottom:20px;color:#fff;font-size:140%;cursor:hand;transition:background-color 1s}
+p:last-child{margin-top:-3px}
+a{border:none;border-radius:20px;margin-left:10px}
